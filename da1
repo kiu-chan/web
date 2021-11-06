@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tiếng đức</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="./fontawesome-free-5.15.4-web/css/all.min.css" />
+        <meta charset="utf-8">
+        <style>
+            i{
+                color: brown;
+            }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <div class="box">
+            <ul>
+                <li><a href=""><button>HOME</button></a> </li>
+                <li><a href=""></a><button>About us</button></li>
+                <li><a href=""></a><button>Contact</button></li>
+                <li><input type="text"><a href=""></a><i class="fa fa-search"></i> </li>
+            </ul>
+            </div>
+        </nav>
+    <div id="moc">
+    </div>
+    </body>
+</html>
